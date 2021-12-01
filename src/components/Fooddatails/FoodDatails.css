@@ -1,0 +1,21 @@
+.inputbox {
+    width: 30%;
+    padding: 10px;
+    border-radius: 20px;
+    border:1px solid gray ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    margin-bottom: 30px;
+}
+.inputbox input{
+    width: 20%;
+    border:0;
+    font-size: 25px;
+}
+.btn-price-number{
+    width: 60px;
+    border: 0px;
+    font-size: 25px;
+}

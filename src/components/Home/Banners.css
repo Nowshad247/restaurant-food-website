@@ -1,0 +1,41 @@
+.banner{
+    background-image: url('../../bannerbackground.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.banner-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.inputfrom{
+    display: flex;
+    flex-direction: row;
+    padding:5px;
+    border-radius: 30px;
+    background-color: white;
+}
+.inputfrom input{
+    width: 300px;
+    border:0;
+    padding: 10px;
+    margin: 5px;
+    outline: 0;
+    border-radius: 5px;
+}
+.inputfrom button{
+    background-color: #f91944 !important;
+    border-radius:20px !important;
+    width: 125px;
+    margin-left:10px;
+    color: white;
+    border: 1px solid white;
+}
+.inputfrom input:focus{
+    border-bottom: yellowgreen !important;
+    border-color: #FF0000;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}

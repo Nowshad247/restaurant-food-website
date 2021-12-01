@@ -1,0 +1,21 @@
+.feturd-img{
+
+}
+.feturd-content{
+    margin-top: 20px;
+}
+.feturd-content{
+    display: flex;
+}
+.fetued-icon svg{
+    background-color: red;
+    margin: 10px;
+    width: 45px;
+    height: 45px;
+    border-radius: 45px;
+    padding: 5px;
+    color: white;
+}
+.feturd-contents{
+   text-align: justify;
+}

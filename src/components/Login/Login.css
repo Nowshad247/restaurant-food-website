@@ -1,0 +1,12 @@
+.custom-signup {
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+}
+.custom-signup input{
+margin-top: 10px;
+margin-bottom: 10px;
+}

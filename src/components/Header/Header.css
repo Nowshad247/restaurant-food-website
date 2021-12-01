@@ -1,0 +1,13 @@
+.logo{
+    max-width: 168px;
+    max-height: 60px;
+}
+.signup{
+    background-color: #f91944 !important;
+    border-radius:20px !important;
+    width: 125px;
+    margin-left:10px;
+}
+.cartbtn{
+    margin-right: 10px;
+}
